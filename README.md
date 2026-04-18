@@ -1,4 +1,4 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/BrentPeterson001/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/BrentPeterson001/frontend-project-44/actions)
 ### Asciinema:
-[![asciicast](https://asciinema.org/a/EHkd8GIQwMHSKJXe.svg](https://asciinema.org/a/EHkd8GIQwMHSKJXe)
+[![asciicast](https://asciinema.org/a/EHkd8GIQwMHSKJXe.svg)](https://asciinema.org/a/EHkd8GIQwMHSKJXe)
