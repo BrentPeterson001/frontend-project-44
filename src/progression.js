@@ -13,8 +13,8 @@ const generateProgression = () => {
   const progression = [];
 
   for (let i = 0; i < length; i += 1) {
-    const value = start + i * step;
-    progression.push(value);
+    const currentElement = start + i * step;
+    progression.push(currentElement);
   }
 
   const correctAnswer = String(progression[hiddenIndex]);
