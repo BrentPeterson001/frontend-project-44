@@ -3,4 +3,3 @@
 import { runGcdGame } from '../src/gcd.js'
 
 runGcdGame()
-

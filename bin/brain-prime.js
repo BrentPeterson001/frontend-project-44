@@ -3,4 +3,3 @@
 import { runPrimeGame } from '../src/prime.js'
 
 runPrimeGame()
-
