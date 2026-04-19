@@ -9,8 +9,8 @@ export default [
       ecmaVersion: 2022,
       sourceType: 'module',
       globals: {
-        ...globals.node,
-        ...globals.es2021,
+        node: true,
+        es2021: true,
       },
     },
     rules: {
@@ -20,6 +20,7 @@ export default [
       indent: ['error', 2],
       'eol-last': ['error', 'always'],
       'no-trailing-spaces': 'error',
+      'quote-props': ['error', 'as-needed'],
     },
   },
 ]
