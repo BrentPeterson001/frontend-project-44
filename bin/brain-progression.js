@@ -3,4 +3,3 @@
 import { runProgressionGame } from '../src/progression.js'
 
 runProgressionGame()
-
