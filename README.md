@@ -1,5 +1,15 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/BrentPeterson001/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/BrentPeterson001/frontend-project-44/actions)
+# Brain games
+Математические игры
+## Минимальные требования
+Node.js 14+ version
+npm 6+ version
+## Инструкция по установке
+### Установка зависимостей
+make install
+### Глобальная установка пакета
+sudo npm link
 ## Asciinema
 ### Brain-even:
 [![asciicast](https://asciinema.org/a/EHkd8GIQwMHSKJXe.svg)](https://asciinema.org/a/EHkd8GIQwMHSKJXe)
