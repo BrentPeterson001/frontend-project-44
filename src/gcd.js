@@ -31,4 +31,3 @@ export const runGcdGame = () => {
   const gameDescription = 'Find the greatest common divisor of given numbers.'
   runGame(gameDescription, generateRound)
 }
-EOF
