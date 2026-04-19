@@ -1,6 +1,6 @@
 export default [
   {
-    files: ['**/*.js'],
+    files: ['**/*.js', '!eslint.config.js'],
     languageOptions: {
       ecmaVersion: 2022,
       sourceType: 'module',
