@@ -5,5 +5,5 @@
 [![asciicast](https://asciinema.org/a/EHkd8GIQwMHSKJXe.svg)](https://asciinema.org/a/EHkd8GIQwMHSKJXe)
 ### Brain-calc:
 [![asciicast](https://asciinema.org/a/6Nx52rGTXmGAByEn.svg)](https://asciinema.org/a/6Nx52rGTXmGAByEn)
-### Brain-nod:
-[![asciicast](https://asciinema.org/a/1AXmOEGjlBY2C2rh.svg)](https://asciinema.org/a/1AXmOEGjlBY2C2rh)
+### Brain-gcd:
+[![asciicast](https://asciinema.org/a/LhGdPe6jAo4DJAPK.svg)](https://asciinema.org/a/LhGdPe6jAo4DJAPK)
