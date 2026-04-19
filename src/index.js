@@ -11,7 +11,7 @@ export const runGame = (gameDescription, generateRound) => {
 
   for (let correctAnswers = 0; correctAnswers < roundsToWin; ) {
     const { question, correctAnswer } = generateRound()
-    
+
     console.log(`Question: ${question}`)
     const userAnswer = readlineSync.question('Your answer: ')
 
@@ -21,9 +21,9 @@ export const runGame = (gameDescription, generateRound) => {
     } else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
       console.log(`Let's try again, ${name}!`)
-      
+
       return
     }
-   }
-   console.log(`Congratulations, ${name}!`)
+  }
+  console.log(`Congratulations, ${name}!`)
 }
