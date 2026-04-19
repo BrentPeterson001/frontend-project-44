@@ -32,4 +32,4 @@ const generateRound = () => {
 export const runProgressionGame = () => {
   const gameDescription = 'What number is missing in the progression?';
   runGame(gameDescription, generateRound);
-};
+}
