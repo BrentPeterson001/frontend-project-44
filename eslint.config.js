@@ -11,9 +11,9 @@ export default [
     },
     rules: {
       'no-console': 'off',
-      semi: ['error', 'never'],
-      quotes: ['error', 'single'],
-      indent: ['error', 2],
+      'semi': ['error', 'never'],
+      'quotes': ['error', 'single'],
+      'indent': ['error', 2],
       'eol-last': ['error', 'always'],
       'no-trailing-spaces': 'error',
       'quote-props': ['error', 'as-needed'],
