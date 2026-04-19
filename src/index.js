@@ -2,7 +2,6 @@ import readlineSync from 'readline-sync'
 
 export const runGame = (gameDescription, generateRound) => {
   console.log('Welcome to the Brain Games!')
-
   const name = readlineSync.question('May I have your name? ')
   console.log(`Hello, ${name}!`)
   console.log(gameDescription)
@@ -21,9 +20,10 @@ export const runGame = (gameDescription, generateRound) => {
     } else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
       console.log(`Let's try again, ${name}!`)
-
       return
     }
   }
+
   console.log(`Congratulations, ${name}!`)
 }
+EOF
