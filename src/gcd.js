@@ -3,7 +3,7 @@ import { runGame } from './index.js';
 const findGCD = (a, b) => {
   let first = Math.abs(a);
   let second = Math.abs(b);
-  for (; second !== 0; ) {
+  while ( second !== 0) {
    const temp = second;
    second = first % second;
    first = temp;
