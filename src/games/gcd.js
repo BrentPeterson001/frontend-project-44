@@ -1,4 +1,4 @@
-import { runGame } from './index.js'
+import { runGame } from '../index.js'
 
 const findGCD = (a, b) => {
   let first = Math.abs(a)
